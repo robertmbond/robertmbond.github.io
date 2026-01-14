@@ -1,26 +1,18 @@
 const themeToggle = document.querySelector('[data-theme-toggle]');
 const root = document.documentElement;
-
-const updateToggleLabel = (theme) => {
-  if (!themeToggle) return;
-  themeToggle.textContent = theme === 'dark' ? 'Light' : 'Dark';
-  themeToggle.setAttribute('aria-pressed', theme === 'dark');
-};
+const storedTheme = localStorage.getItem('theme');
 
 const applyTheme = (theme) => {
-  root.setAttribute('data-theme', theme);
-  updateToggleLabel(theme);
-};
-
-const getPreferredTheme = () => {
-  const storedTheme = localStorage.getItem('theme');
-  if (storedTheme) {
-    return storedTheme;
+  if (theme) {
+    root.setAttribute('data-theme', theme);
+  } else {
+    root.removeAttribute('data-theme');
   }
-  return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
 };
 
-applyTheme(getPreferredTheme());
+if (storedTheme) {
+  applyTheme(storedTheme);
+}
 
 if (themeToggle) {
   themeToggle.addEventListener('click', () => {
@@ -28,6 +20,7 @@ if (themeToggle) {
     const next = current === 'dark' ? 'light' : 'dark';
     applyTheme(next);
     localStorage.setItem('theme', next);
+    themeToggle.setAttribute('aria-pressed', next === 'dark');
   });
 }
 
@@ -78,12 +71,8 @@ const renderPublications = (container, data, { limit } = {}) => {
 
   let entries = data.filter((item) => !(item.tags || []).includes('comment'));
 
-  const isSelected = container.dataset.publications === 'selected';
-  let hasFeatured = false;
-  if (isSelected) {
-    const featured = entries.filter((item) => item.featured);
-    hasFeatured = featured.length > 0;
-    entries = hasFeatured ? featured : entries.slice(0, limit || 8);
+  if (container.dataset.publications === 'selected') {
+    entries = entries.slice(0, limit || 8);
   }
 
   const searchInput = container.querySelector('[data-publications-search]');
@@ -127,7 +116,7 @@ const renderPublications = (container, data, { limit } = {}) => {
       return matchesQuery && matchesYear && matchesTag;
     });
 
-    if (isSelected && !hasFeatured) {
+    if (container.dataset.publications === 'selected') {
       filtered = filtered.slice(0, limit || 8);
     }
 

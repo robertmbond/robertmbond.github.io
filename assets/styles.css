@@ -145,7 +145,7 @@ main {
 }
 
 .hero h1 {
-  font-size: clamp(1.6rem, 3vw, 2.4rem);
+  font-size: clamp(2rem, 4vw, 3rem);
   margin: 0;
 }
 
