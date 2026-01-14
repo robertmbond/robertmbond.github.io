@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Publications | Robert M. Bond</title>
+  <meta name="description" content="Browse publications by Robert M. Bond in communication, social networks, and computational social science.">
+  <meta property="og:title" content="Publications | Robert M. Bond">
+  <meta property="og:description" content="Browse publications by Robert M. Bond in communication, social networks, and computational social science.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://robertmbond.github.io/publications.html">
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to main content</a>
+  <header class="site-header">
+    <nav class="navbar" aria-label="Primary">
+      <a class="brand" href="index.html">Robert M. Bond</a>
+      <div class="nav-links">
+        <a href="index.html">Home</a>
+        <a href="publications.html" aria-current="page">Publications</a>
+        <a href="teaching.html">Teaching</a>
+        <a href="contact.html">Contact</a>
+        <button class="theme-toggle" type="button" data-theme-toggle aria-pressed="false">Dark</button>
+      </div>
+    </nav>
+  </header>
+
+  <main id="main">
+    <section class="section">
+      <h1>Publications</h1>
+      <p class="meta">Search, filter, and export publications from the full list.</p>
+    </section>
+
+    <section class="section" data-publications="all">
+      <div class="filter-bar">
+        <div>
+          <label for="publication-search">Search</label>
+          <input id="publication-search" type="search" placeholder="Search by title, author, or venue" data-publications-search>
+        </div>
+        <div>
+          <label for="publication-year">Year</label>
+          <select id="publication-year" data-publications-year>
+            <option value="">All years</option>
+          </select>
+        </div>
+        <div>
+          <label for="publication-tag">Tag</label>
+          <select id="publication-tag" data-publications-tag>
+            <option value="">All tags</option>
+          </select>
+        </div>
+        <button class="button download-button" type="button" data-publications-download>Download BibTeX</button>
+      </div>
+
+      <div class="publication-list" data-publications-list></div>
+      <p data-publications-empty hidden>No publications match your search.</p>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <p>© 2024 Robert M. Bond · School of Communication, Ohio State University</p>
+  </footer>
+
+  <script src="assets/site.js" defer></script>
+</body>
+</html>
