@@ -18,9 +18,11 @@
       "pdf": "/social_influence_political_mobilization.pdf"
     },
     "tags": [
-      "political behavior",
-      "social influence"
-    ]
+       "Misinformation",
+        "Elections",
+        "Political Misperceptions",
+        "Surveys & Panels",
+        "Polarization & Partisanship"    ]
   },
   {
     "title": "Bursts of co-publication among high and low credibility online news publishers observed on Facebook",
@@ -31,8 +33,11 @@
       "pdf": "/social_influence_political_mobilization.pdf"
     },
     "tags": [
-      "political behavior",
-      "social influence"
+        "Misinformation",
+        "News Media",
+        "Facebook",
+        "Network Dynamics & Evolution",
+        "Social Network Analysis"
     ]
   },
   {
@@ -44,8 +49,11 @@
       "pdf": "/social_influence_political_mobilization.pdf"
     },
     "tags": [
-      "political behavior",
-      "social influence"
+        "Political Misperceptions",
+        "Elections",
+        "Polarization & Partisanship",
+        "Surveys & Panels",
+        "Measurement & Inference"
     ]
   },
     {
@@ -57,8 +65,11 @@
       "pdf": "/social_influence_political_mobilization.pdf"
     },
     "tags": [
-      "political behavior",
-      "social influence"
+        "Journalism",
+        "Homophily",
+        "Social Network Analysis",
+        "News Media",
+        "Surveys & Panels"
     ]
   },
     {
@@ -70,8 +81,11 @@
       "pdf": "/social_influence_political_mobilization.pdf"
     },
     "tags": [
-      "political behavior",
-      "social influence"
+        "Vaccines",
+        "Health Communication",
+        "Reddit",
+        "Homophily",
+        "Text Analysis & NLP"
     ]
   },
     {
@@ -83,8 +97,11 @@
       "pdf": "/social_influence_political_mobilization.pdf"
     },
     "tags": [
-      "political behavior",
-      "social influence"
+        "News Media",
+        "Polarization & Partisanship",
+        "Misinformation",
+        "Text Analysis & NLP",
+        "Social Network Analysis"
     ]
   },
     {
@@ -96,8 +113,11 @@
       "pdf": "/social_influence_political_mobilization.pdf"
     },
     "tags": [
-      "political behavior",
-      "social influence"
+       "Fact-Checking & Correction",
+        "Reddit",
+        "Misinformation",
+        "Social Media (General)",
+        "Measurement & Inference"
     ]
   },
     {
@@ -109,8 +129,11 @@
       "pdf": "/social_influence_political_mobilization.pdf"
     },
     "tags": [
-      "political behavior",
-      "social influence"
+       "Misinformation",
+        "Political Misperceptions",
+        "News Media",
+        "Experiments (Randomized)",
+        "Public Opinion & Persuasion"
     ]
   },
       {
@@ -122,8 +145,11 @@
       "pdf": "/social_influence_political_mobilization.pdf"
     },
     "tags": [
-      "political behavior",
-      "social influence"
+       "Science Communication",
+        "Reddit",
+        "Surveys & Panels",
+        "Public Opinion & Persuasion",
+        "Measurement & Inference"
     ]
   },
       {
@@ -135,21 +161,11 @@
       "pdf": "/social_influence_political_mobilization.pdf"
     },
     "tags": [
-      "political behavior",
-      "social influence"
-    ]
-  },
-      {
-    "title": "Comparing beliefs in falsehoods based on satiric and non-satiric news",
-    "authors": "Shannon Poulsen, R. Kelly Garrett, and Robert M. Bond",
-    "year": 2023,
-    "venue": "PLoS One",
-    "links": {
-      "pdf": "/social_influence_political_mobilization.pdf"
-    },
-    "tags": [
-      "political behavior",
-      "social influence"
+       "Elections",
+        "Public Opinion & Persuasion",
+        "Measurement & Inference",
+        "Experiments (Randomized)",
+        "Political Participation & Mobilization"
     ]
   },
       {
@@ -161,8 +177,11 @@
       "pdf": "/social_influence_political_mobilization.pdf"
     },
     "tags": [
-      "political behavior",
-      "social influence"
+        "COVID-19",
+        "Misinformation",
+        "Social Network Analysis",
+        "Measurement & Inference",
+        "Network Dynamics & Evolution"
     ]
   },
       {
@@ -174,8 +193,11 @@
       "pdf": "/social_influence_political_mobilization.pdf"
     },
     "tags": [
-      "political behavior",
-      "social influence"
+       "Social Network Analysis",
+        "Measurement & Inference",
+        "Network Dynamics & Evolution",
+        "Surveys & Panels",
+        "Social Media (General)"
     ]
   },
         {
@@ -187,8 +209,11 @@
       "pdf": "/social_influence_political_mobilization.pdf"
     },
     "tags": [
-      "political behavior",
-      "social influence"
+       "COVID-19",
+        "Vaccines",
+        "Health Communication",
+        "Surveys & Panels",
+        "Polarization & Partisanship"
     ]
   },
         {
@@ -200,8 +225,11 @@
       "pdf": "/social_influence_political_mobilization.pdf"
     },
     "tags": [
-      "political behavior",
-      "social influence"
+        "Homophily",
+        "Polarization & Partisanship",
+        "Social Network Analysis",
+        "Social Media (General)",
+        "Measurement & Inference"
     ]
   },
         {
@@ -213,8 +241,11 @@
       "pdf": "/social_influence_political_mobilization.pdf"
     },
     "tags": [
-      "political behavior",
-      "social influence"
+       "Adolescents & Youth",
+        "Social Network Analysis",
+        "Diffusion & Contagion",
+        "Health Communication",
+        "Surveys & Panels"
     ]
   },
         {
@@ -226,8 +257,11 @@
       "pdf": "/social_influence_political_mobilization.pdf"
     },
     "tags": [
-      "political behavior",
-      "social influence"
+         "Science Communication",
+        "Reddit",
+        "Text Analysis & NLP",
+        "Surveys & Panels",
+        "Measurement & Inference"
     ]
   },
         {
@@ -239,8 +273,11 @@
       "pdf": "/social_influence_political_mobilization.pdf"
     },
     "tags": [
-      "political behavior",
-      "social influence"
+       "Data Science Education",
+        "Measurement & Inference",
+        "Privacy-Preserving Methods",
+        "Social Network Analysis",
+        "Surveys & Panels"
     ]
   },
           {
@@ -252,8 +289,11 @@
       "pdf": "/social_influence_political_mobilization.pdf"
     },
     "tags": [
-      "political behavior",
-      "social influence"
+       "Eye Tracking",
+        "Elections",
+        "Public Opinion & Persuasion",
+        "Measurement & Inference",
+        "Experiments (Randomized)"
     ]
   },
           {
@@ -265,8 +305,11 @@
       "pdf": "/social_influence_political_mobilization.pdf"
     },
     "tags": [
-      "political behavior",
-      "social influence"
+     "Health Communication",
+        "Experiments (Randomized)",
+        "Public Opinion & Persuasion",
+        "Social Media (General)",
+        "Measurement & Inference"
     ]
   },        
   {
@@ -278,8 +321,11 @@
       "pdf": "/social_influence_political_mobilization.pdf"
     },
     "tags": [
-      "political behavior",
-      "social influence"
+       "Public Opinion & Persuasion",
+        "Experiments (Randomized)",
+        "Polarization & Partisanship",
+        "Measurement & Inference",
+        "Elections"
     ]
   },
           {
@@ -291,8 +337,11 @@
       "pdf": "/social_influence_political_mobilization.pdf"
     },
     "tags": [
-      "political behavior",
-      "social influence"
+       "Political Misperceptions",
+        "Polarization & Partisanship",
+        "Misinformation",
+        "Surveys & Panels",
+        "Measurement & Inference"
     ]
   },
           {
@@ -304,8 +353,11 @@
       "pdf": "/social_influence_political_mobilization.pdf"
     },
     "tags": [
-      "political behavior",
-      "social influence"
+      "Reddit",
+        "Science Communication",
+        "Text Analysis & NLP",
+        "Social Network Analysis",
+        "Social Media (General)"
     ]
   },
           {
@@ -317,8 +369,11 @@
       "pdf": "/social_influence_political_mobilization.pdf"
     },
     "tags": [
-      "political behavior",
-      "social influence"
+       "Network Dynamics & Evolution",
+        "Social Network Analysis",
+        "Diffusion & Contagion",
+        "Measurement & Inference",
+        "Experiments (Randomized)"
     ]
   },
           {
@@ -330,8 +385,11 @@
       "pdf": "/social_influence_political_mobilization.pdf"
     },
     "tags": [
-      "political behavior",
-      "social influence"
+       "Misinformation",
+        "Political Misperceptions",
+        "Measurement & Inference",
+        "Social Media (General)",
+        "News Media"
     ]
   },
           {
@@ -343,8 +401,10 @@
       "pdf": "/social_influence_political_mobilization.pdf"
     },
     "tags": [
-      "political behavior",
-      "social influence"
+      "Digital Humanities",
+        "Text Analysis & NLP",
+        "News Media",
+        "Measurement & Inference"
     ]
   },
           {
@@ -356,8 +416,11 @@
       "pdf": "/social_influence_political_mobilization.pdf"
     },
     "tags": [
-      "political behavior",
-      "social influence"
+      "Cooperation & Punishment",
+        "Diffusion & Contagion",
+        "Social Network Analysis",
+        "Experiments (Randomized)",
+        "Network Dynamics & Evolution"
     ]
   },
           {
@@ -369,8 +432,11 @@
       "pdf": "/social_influence_political_mobilization.pdf"
     },
     "tags": [
-      "political behavior",
-      "social influence"
+      "Public Opinion & Persuasion",
+        "Social Media (General)",
+        "Polarization & Partisanship",
+        "Experiments (Randomized)",
+        "Political Participation & Mobilization"
     ]
   },
           {
@@ -382,8 +448,11 @@
       "pdf": "/social_influence_political_mobilization.pdf"
     },
     "tags": [
-      "political behavior",
-      "social influence"
+       "Prejudice & Intergroup Attitudes",
+        "Polarization & Partisanship",
+        "Public Opinion & Persuasion",
+        "Experiments (Randomized)",
+        "Surveys & Panels"
     ]
   },
           {
@@ -395,8 +464,11 @@
       "pdf": "/social_influence_political_mobilization.pdf"
     },
     "tags": [
-      "political behavior",
-      "social influence"
+       "Prejudice & Intergroup Attitudes",
+        "Diffusion & Contagion",
+        "Social Network Analysis",
+        "Experiments (Randomized)",
+        "Network Dynamics & Evolution"
     ]
   },
           {
@@ -408,8 +480,11 @@
       "pdf": "/social_influence_political_mobilization.pdf"
     },
     "tags": [
-      "political behavior",
-      "social influence"
+        "Social Network Analysis",
+        "Experiments (Randomized)",
+        "Privacy-Preserving Methods",
+        "Measurement & Inference",
+        "Social Media (General)"
     ]
   },
           {
@@ -421,8 +496,11 @@
       "pdf": "/social_influence_political_mobilization.pdf"
     },
     "tags": [
-      "political behavior",
-      "social influence"
+       "Political Participation & Mobilization",
+        "Elections",
+        "Experiments (Randomized)",
+        "Diffusion & Contagion",
+        "Facebook"
     ]
   },
           {
@@ -434,8 +512,10 @@
       "pdf": "/social_influence_political_mobilization.pdf"
     },
     "tags": [
-      "political behavior",
-      "social influence"
+        "Network Dynamics & Evolution",
+        "Social Network Analysis",
+        "Measurement & Inference",
+        "Diffusion & Contagion"
     ]
   },
           {
@@ -447,8 +527,11 @@
       "pdf": "/social_influence_political_mobilization.pdf"
     },
     "tags": [
-      "political behavior",
-      "social influence"
+       "Education & Achievement",
+        "Social Network Analysis",
+        "Diffusion & Contagion",
+        "Adolescents & Youth",
+        "Surveys & Panels"
     ]
   },
           {
@@ -460,8 +543,11 @@
       "pdf": "/social_influence_political_mobilization.pdf"
     },
     "tags": [
-      "political behavior",
-      "social influence"
+       "Violence",
+        "Adolescents & Youth",
+        "Diffusion & Contagion",
+        "Social Network Analysis",
+        "Health Communication"
     ]
   },
           {
@@ -473,8 +559,11 @@
       "pdf": "/social_influence_political_mobilization.pdf"
     },
     "tags": [
-      "political behavior",
-      "social influence"
+        "Political Participation & Mobilization",
+        "Social Media (General)",
+        "Experiments (Randomized)",
+        "Public Opinion & Persuasion",
+        "Polarization & Partisanship"
     ]
   },
           {
@@ -486,8 +575,11 @@
       "pdf": "/social_influence_political_mobilization.pdf"
     },
     "tags": [
-      "political behavior",
-      "social influence"
+        "Political Participation & Mobilization",
+        "Elections",
+        "Social Media (General)",
+        "Polarization & Partisanship",
+        "Measurement & Inference"
     ]
   },
           {
@@ -499,8 +591,11 @@
       "pdf": "/social_influence_political_mobilization.pdf"
     },
     "tags": [
-      "political behavior",
-      "social influence"
+        "Facebook",
+        "Polarization & Partisanship",
+        "Measurement & Inference",
+        "Social Media (General)",
+        "Political Participation & Mobilization"
     ]
   },
           {
@@ -512,8 +607,11 @@
       "pdf": "/social_influence_political_mobilization.pdf"
     },
     "tags": [
-      "political behavior",
-      "social influence"
+       "Privacy-Preserving Methods",
+        "Measurement & Inference",
+        "Social Network Analysis",
+        "Social Media (General)",
+        "Data Science Education"
     ]
   },
           {
@@ -525,8 +623,10 @@
       "pdf": "/social_influence_political_mobilization.pdf"
     },
     "tags": [
-      "political behavior",
-      "social influence"
+       "Measurement & Inference",
+        "Social Network Analysis",
+        "Social Media (General)",
+        "Network Dynamics & Evolution"
     ]
   },
           {
@@ -538,8 +638,11 @@
       "pdf": "/social_influence_political_mobilization.pdf"
     },
     "tags": [
-      "political behavior",
-      "social influence"
+       "Political Participation & Mobilization",
+        "Facebook",
+        "Experiments (Randomized)",
+        "Diffusion & Contagion",
+        "Elections"
     ]
   },
           {
@@ -551,8 +654,11 @@
       "pdf": "/social_influence_political_mobilization.pdf"
     },
     "tags": [
-      "political behavior",
-      "social influence"
+        "Political Participation & Mobilization",
+        "Adolescents & Youth",
+        "Surveys & Panels",
+        "Polarization & Partisanship",
+        "Network Dynamics & Evolution"
     ]
   }
 ]
