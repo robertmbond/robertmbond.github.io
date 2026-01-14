@@ -4,7 +4,7 @@
     "authors": "",
     "year": null,
     "venue": "",
-    "links": {},
+},
     "tags": [
       "comment"
     ]
@@ -14,9 +14,6 @@
     "authors": "R. Kelly Garrett, Robert M. Bond, and Erik C. Nisbet",
     "year": null,
     "venue": "Political Communication",
-    "links": {
-      "pdf": "/social_influence_political_mobilization.pdf"
-    },
     "tags": [
        "Misinformation",
         "Elections",
@@ -29,9 +26,6 @@
     "authors": "Ceren Budak, Lia Bozarth, Robert M. Bond, Drew Margolin, Jason J. Jones, and R. Kelly Garrett",
     "year": 2025,
     "venue": "New Media & Society",
-    "links": {
-      "pdf": "/social_influence_political_mobilization.pdf"
-    },
     "tags": [
         "Misinformation",
         "News Media",
@@ -45,9 +39,6 @@
     "authors": "Qin Li, Robert M. Bond, and R. Kelly Garrett",
     "year": 2025,
     "venue": "Journal of Communication",
-    "links": {
-      "pdf": "/social_influence_political_mobilization.pdf"
-    },
     "tags": [
         "Political Misperceptions",
         "Elections",
@@ -61,9 +52,6 @@
     "authors": "Qin Li, Hans Hassell, and Robert M. Bond",
     "year": 2023,
     "venue": "PLoS One",
-    "links": {
-      "pdf": "/social_influence_political_mobilization.pdf"
-    },
     "tags": [
         "Journalism",
         "Homophily",
@@ -77,9 +65,6 @@
     "authors": "Yue Li, William Gee, Jin Kun, and Robert M. Bond",
     "year": 2023,
     "venue": "Journal of Medical Internet Research",
-    "links": {
-      "pdf": "/social_influence_political_mobilization.pdf"
-    },
     "tags": [
         "Vaccines",
         "Health Communication",
@@ -93,9 +78,6 @@
     "authors": "Yue Li and Robert M. Bond",
     "year": 2023,
     "venue": "Human Communication Research",
-    "links": {
-      "pdf": "/social_influence_political_mobilization.pdf"
-    },
     "tags": [
         "News Media",
         "Polarization & Partisanship",
@@ -109,9 +91,6 @@
     "authors": "Robert M. Bond and R. Kelly Garrett",
     "year": 2023,
     "venue": "PNAS Nexus",
-    "links": {
-      "pdf": "/social_influence_political_mobilization.pdf"
-    },
     "tags": [
        "Fact-Checking & Correction",
         "Reddit",
@@ -125,9 +104,6 @@
     "authors": "Shannon Poulsen, R. Kelly Garrett, and Robert M. Bond",
     "year": 2023,
     "venue": "PLoS One",
-    "links": {
-      "pdf": "/social_influence_political_mobilization.pdf"
-    },
     "tags": [
        "Misinformation",
         "Political Misperceptions",
@@ -141,9 +117,6 @@
     "authors": "Austin Hubner and Robert M. Bond",
     "year": 2022,
     "venue": "Journal of Science Communication",
-    "links": {
-      "pdf": "/social_influence_political_mobilization.pdf"
-    },
     "tags": [
        "Science Communication",
         "Reddit",
@@ -157,9 +130,6 @@
     "authors": "Hillary Shulman, Matthew D. Sweitzer, Jason Coronel, Olivia Bullock, Shannon Poulsen, and Robert M. Bond",
     "year": 2022,
     "venue": "Political Communication",
-    "links": {
-      "pdf": "/social_influence_political_mobilization.pdf"
-    },
     "tags": [
        "Elections",
         "Public Opinion & Persuasion",
@@ -173,9 +143,6 @@
     "authors": "Matthew Osborne, Samuel S. Malloy, Erik C. Nisbet, Robert M. Bond, and Joseph H. Tien",
     "year": 2022,
     "venue": "Scientific Reports",
-    "links": {
-      "pdf": "/social_influence_political_mobilization.pdf"
-    },
     "tags": [
         "COVID-19",
         "Misinformation",
@@ -189,9 +156,6 @@
     "authors": "Yue Li and Robert M. Bond",
     "year": 2022,
     "venue": "Applied Network Science",
-    "links": {
-      "pdf": "/social_influence_political_mobilization.pdf"
-    },
     "tags": [
        "Social Network Analysis",
         "Measurement & Inference",
@@ -205,9 +169,6 @@
     "authors": "Tasleem J. Padamsee, Robert M. Bond, Graham N. Dixon, Shelly R. Hovick, Kilhoe Na, Erik C. Nisbet, Duane T. Wegener, and R. Kelly Garrett",
     "year": 2022,
     "venue": "JAMA Network Open",
-    "links": {
-      "pdf": "/social_influence_political_mobilization.pdf"
-    },
     "tags": [
        "COVID-19",
         "Vaccines",
@@ -221,9 +182,6 @@
     "authors": "Robert M. Bond and Matthew D. Sweitzer",
     "year": 2022,
     "venue": "Communication Research",
-    "links": {
-      "pdf": "/social_influence_political_mobilization.pdf"
-    },
     "tags": [
         "Homophily",
         "Polarization & Partisanship",
@@ -237,9 +195,6 @@
     "authors": "Robert M. Bond",
     "year": 2022,
     "venue": "The Social Science Journal",
-    "links": {
-      "pdf": "/social_influence_political_mobilization.pdf"
-    },
     "tags": [
        "Adolescents & Youth",
         "Social Network Analysis",
@@ -253,9 +208,6 @@
     "authors": "Austin Hubner and Robert M. Bond",
     "year": 2022,
     "venue": "Public Understanding of Science",
-    "links": {
-      "pdf": "/social_influence_political_mobilization.pdf"
-    },
     "tags": [
          "Science Communication",
         "Reddit",
@@ -269,9 +221,6 @@
     "authors": "Robert M. Bond",
     "year": 2022,
     "venue": "Teaching Graduate Methodology (Brown, Nordyke, and Thies (Eds.)",
-    "links": {
-      "pdf": "/social_influence_political_mobilization.pdf"
-    },
     "tags": [
        "Data Science Education",
         "Measurement & Inference",
@@ -285,9 +234,6 @@
     "authors": "Jason Coronel, Olivia Bullock, Hillary Shulman, Matthew D. Sweitzer, Robert M. Bond, and Shannon Poulsen",
     "year": 2021,
     "venue": "Psychological Science",
-    "links": {
-      "pdf": "/social_influence_political_mobilization.pdf"
-    },
     "tags": [
        "Eye Tracking",
         "Elections",
@@ -301,9 +247,6 @@
     "authors": "Elias Assaf, Robert M. Bond, Skyler J. Cranmer, Eloise E. Kaizar, Lauren Ratliff Santoro, Susumu Shikano, and David J. Sivakoff",
     "year": 2021,
     "venue": "Journal of Medical Internet Research",
-    "links": {
-      "pdf": "/social_influence_political_mobilization.pdf"
-    },
     "tags": [
      "Health Communication",
         "Experiments (Randomized)",
@@ -317,9 +260,6 @@
     "authors": "Lauren Ratliff Santoro, Elias Assaf, Robert M. Bond, Eloise E. Kaizar, David J. Sivakoff, and Skyler J. Cranmer",
     "year": 2021,
     "venue": "PLoS One",
-    "links": {
-      "pdf": "/social_influence_political_mobilization.pdf"
-    },
     "tags": [
        "Public Opinion & Persuasion",
         "Experiments (Randomized)",
@@ -333,9 +273,6 @@
     "authors": "R. Kelly Garrett and Robert M. Bond",
     "year": 2021,
     "venue": "Science Advances",
-    "links": {
-      "pdf": "/social_influence_political_mobilization.pdf"
-    },
     "tags": [
        "Political Misperceptions",
         "Polarization & Partisanship",
@@ -349,9 +286,6 @@
     "authors": "Austin Hubner, Jessica McKnight, Matthew D. Sweitzer, and Robert M. Bond",
     "year": 2021,
     "venue": "Computational Communication Research",
-    "links": {
-      "pdf": "/social_influence_political_mobilization.pdf"
-    },
     "tags": [
       "Reddit",
         "Science Communication",
@@ -365,9 +299,6 @@
     "authors": "Caleb Pomeroy, Robert M. Bond, Peter J. Mucha, and Skyler Cranmer",
     "year": 2020,
     "venue": "Scientific Reports",
-    "links": {
-      "pdf": "/social_influence_political_mobilization.pdf"
-    },
     "tags": [
        "Network Dynamics & Evolution",
         "Social Network Analysis",
@@ -381,9 +312,6 @@
     "authors": "Robert M. Bond, Lia C. Bozarth, Ceren Budak, R. Kelly Garrett, Jason J. Jones, and Drew Margolin",
     "year": 2020,
     "venue": "Harvard Kennedy School (HKS) Misinformation Review",
-    "links": {
-      "pdf": "/social_influence_political_mobilization.pdf"
-    },
     "tags": [
        "Misinformation",
         "Political Misperceptions",
@@ -397,9 +325,6 @@
     "authors": "Elizabeth A. Bond and Robert M. Bond",
     "year": 2020,
     "venue": "Digitising Enlightenment: Digital Humanities and the Transformation of Eighteenth-Century Studies (Burrows and Roe (Eds.)",
-    "links": {
-      "pdf": "/social_influence_political_mobilization.pdf"
-    },
     "tags": [
       "Digital Humanities",
         "Text Analysis & NLP",
@@ -412,9 +337,6 @@
     "authors": "Robert M. Bond",
     "year": 2019,
     "venue": "Scientific Reports",
-    "links": {
-      "pdf": "/social_influence_political_mobilization.pdf"
-    },
     "tags": [
       "Cooperation & Punishment",
         "Diffusion & Contagion",
@@ -428,9 +350,6 @@
     "authors": "Megan Vendemia, Robert M. Bond, and David DeAndrea",
     "year": 2019,
     "venue": "Computers in Human Behavior",
-    "links": {
-      "pdf": "/social_influence_political_mobilization.pdf"
-    },
     "tags": [
       "Public Opinion & Persuasion",
         "Social Media (General)",
@@ -444,9 +363,6 @@
     "authors": "Robert M. Bond, Hillary Shulman, and Michael Gilbert",
     "year": 2018,
     "venue": "International Journal of Communication",
-    "links": {
-      "pdf": "/social_influence_political_mobilization.pdf"
-    },
     "tags": [
        "Prejudice & Intergroup Attitudes",
         "Polarization & Partisanship",
@@ -460,9 +376,6 @@
     "authors": "Robert M. Bond",
     "year": 2018,
     "venue": "Social Influence",
-    "links": {
-      "pdf": "/social_influence_political_mobilization.pdf"
-    },
     "tags": [
        "Prejudice & Intergroup Attitudes",
         "Diffusion & Contagion",
@@ -476,9 +389,6 @@
     "authors": "Robert M. Bond, Christopher J. Fariss, Jason J. Jones, and Jaime E. Settle",
     "year": 2018,
     "venue": "Complex Spreading Phenomena in Social Systems (Ahn and Lehman (Eds.)",
-    "links": {
-      "pdf": "/social_influence_political_mobilization.pdf"
-    },
     "tags": [
         "Social Network Analysis",
         "Experiments (Randomized)",
@@ -492,9 +402,6 @@
     "authors": "Jason J. Jones, Robert M. Bond, Eytan Bakshy, Dean Eckles, and James H. Fowler",
     "year": 2017,
     "venue": "PLoS One",
-    "links": {
-      "pdf": "/social_influence_political_mobilization.pdf"
-    },
     "tags": [
        "Political Participation & Mobilization",
         "Elections",
@@ -508,9 +415,6 @@
     "authors": "Robert M. Bond",
     "year": 2017,
     "venue": "Nature Human Behaviour",
-    "links": {
-      "pdf": "/social_influence_political_mobilization.pdf"
-    },
     "tags": [
         "Network Dynamics & Evolution",
         "Social Network Analysis",
@@ -523,9 +427,6 @@
     "authors": "Robert M. Bond, Volha Chykina, and Jason J. Jones",
     "year": 2017,
     "venue": "The Social Science Journal",
-    "links": {
-      "pdf": "/social_influence_political_mobilization.pdf"
-    },
     "tags": [
        "Education & Achievement",
         "Social Network Analysis",
@@ -539,9 +440,6 @@
     "authors": "Robert M. Bond and Brad J. Bushman",
     "year": 2017,
     "venue": "American Journal of Public Health",
-    "links": {
-      "pdf": "/social_influence_political_mobilization.pdf"
-    },
     "tags": [
        "Violence",
         "Adolescents & Youth",
@@ -555,9 +453,6 @@
     "authors": "Robert M. Bond, Jaime E. Settle, Christopher J. Fariss, Jason J. Jones, and James H. Fowler",
     "year": 2016,
     "venue": "Political Communication",
-    "links": {
-      "pdf": "/social_influence_political_mobilization.pdf"
-    },
     "tags": [
         "Political Participation & Mobilization",
         "Social Media (General)",
@@ -571,9 +466,6 @@
     "authors": "Jaime E. Settle, Robert M. Bond, Lorenzo Coviello, Jason J. Jones, Christopher J. Fariss, James H. Fowler, Adam D.I. Kramer, and Cameron Marlow",
     "year": 2016,
     "venue": "Political Science Research & Methods",
-    "links": {
-      "pdf": "/social_influence_political_mobilization.pdf"
-    },
     "tags": [
         "Political Participation & Mobilization",
         "Elections",
@@ -587,9 +479,6 @@
     "authors": "Robert M. Bond and Solomon Messing",
     "year": 2015,
     "venue": "American Political Science Review",
-    "links": {
-      "pdf": "/social_influence_political_mobilization.pdf"
-    },
     "tags": [
         "Facebook",
         "Polarization & Partisanship",
@@ -603,9 +492,6 @@
     "authors": "Jason J. Jones, Robert M. Bond, Christopher J. Fariss, Jaime E. Settle, Adam D. I. Kramer, Cameron Marlow, and James H. Fowler",
     "year": 2013,
     "venue": "PLoS One",
-    "links": {
-      "pdf": "/social_influence_political_mobilization.pdf"
-    },
     "tags": [
        "Privacy-Preserving Methods",
         "Measurement & Inference",
@@ -619,9 +505,6 @@
     "authors": "Jason J. Jones, Jaime E. Settle, Robert M. Bond, Christopher J. Fariss, Cameron Marlow, and James H. Fowler",
     "year": 2013,
     "venue": "PLoS One",
-    "links": {
-      "pdf": "/social_influence_political_mobilization.pdf"
-    },
     "tags": [
        "Measurement & Inference",
         "Social Network Analysis",
@@ -634,9 +517,6 @@
     "authors": "Robert M. Bond, Christopher J. Fariss, Jason J. Jones, Adam D. I. Kramer, Cameron Marlow, Jaime Settle, and James H. Fowler",
     "year": 2012,
     "venue": "Nature",
-    "links": {
-      "pdf": "/social_influence_political_mobilization.pdf"
-    },
     "tags": [
        "Political Participation & Mobilization",
         "Facebook",
@@ -650,9 +530,6 @@
     "authors": "Jaime E. Settle, Robert M. Bond, and Justin Levitt",
     "year": 2011,
     "venue": "American Politics Research",
-    "links": {
-      "pdf": "/social_influence_political_mobilization.pdf"
-    },
     "tags": [
         "Political Participation & Mobilization",
         "Adolescents & Youth",
