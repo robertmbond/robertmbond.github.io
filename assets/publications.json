@@ -5,17 +5,105 @@
     "year": null,
     "venue": "",
     "links": {},
-    "tags": ["comment"]
+    "tags": [
+      "comment"
+    ]
   },
   {
-    "title": "Social Influence and Political Mobilization",
-    "authors": "Robert M. Bond",
+    "title": "A 61-Million-Person Experiment in Social Influence and Political Mobilization",
+    "authors": "Jason J. Jones, Robert M. Bond, Eytan Bakshy, <a href=\"https://www.deaneckles.com\">Dean Eckles</a>, <a href=\"https://jhfowler.ucsd.edu\">James H. Fowler</a>",
     "year": null,
     "venue": "Journal article",
     "links": {
       "pdf": "/social_influence_political_mobilization.pdf"
     },
-    "tags": ["political behavior", "social influence"]
+    "tags": [
+      "political behavior",
+      "social influence"
+    ]
+  },
+  {
+    "title": "Conservatives\u2019 susceptibility to political misperceptions",
+    "authors": "<a href=\"https://rkellygarrett.com\">R. Kelly Garrett</a>, Robert M. Bond",
+    "year": null,
+    "venue": "Journal article",
+    "links": {
+      "pdf": "/conservatives_susceptibility_misperceptions.pdf"
+    },
+    "tags": [
+      "misinformation",
+      "politics"
+    ]
+  },
+  {
+    "title": "Misperceptions in sociopolitical context: Belief sensitivity\u2019s relationship with battleground state status and partisan segregation",
+    "authors": "<a href=\"https://rkellygarrett.com\">R. Kelly Garrett</a>, Robert M. Bond",
+    "year": null,
+    "venue": "Journal article",
+    "links": null,
+    "tags": [
+      "misinformation",
+      "politics"
+    ]
+  },
+  {
+    "title": "Changes in COVID-19 Vaccine Hesitancy Among Black and White Individuals in the US",
+    "authors": "Robert M. Bond",
+    "year": null,
+    "venue": "Journal article",
+    "links": null,
+    "tags": [
+      "health",
+      "public opinion"
+    ]
+  },
+  {
+    "title": "Eye movements predict large-scale voting decisions",
+    "authors": "Jason C. Coronel, Olivia M. Bullock, Hillary C. Shulman, Matthew D. Sweitzer, Robert M. Bond, Shannon Poulsen",
+    "year": null,
+    "venue": "Journal article",
+    "links": {
+      "pdf": "/eye_movements_voting_decisions.pdf"
+    },
+    "tags": [
+      "voting",
+      "psychology"
+    ]
+  },
+  {
+    "title": "Dynamics of Social Network Emergence Explain Network Evolution",
+    "authors": "Caleb Pomeroy, Robert M. Bond",
+    "year": null,
+    "venue": "Journal article",
+    "links": {
+      "pdf": "/network_emergence_network_evolution.pdf"
+    },
+    "tags": [
+      "networks",
+      "methods"
+    ]
+  },
+  {
+    "title": "Bursts of co-publication among high and low credibility online news publishers observed on Facebook",
+    "authors": "Robert M. Bond",
+    "year": null,
+    "venue": "Journal article",
+    "links": null,
+    "tags": [
+      "misinformation",
+      "social media"
+    ]
+  },
+  {
+    "title": "Examining semantic (dis)similarity in news through news organizations' ideological similarity, similarity in truthfulness, and public engagement on social media: A network approach",
+    "authors": "Robert M. Bond",
+    "year": null,
+    "venue": "Journal article",
+    "links": null,
+    "tags": [
+      "news",
+      "social media"
+    ]
   },
   {
     "title": "Facebook Ideology",
@@ -25,7 +113,10 @@
     "links": {
       "pdf": "/facebook_ideology.pdf"
     },
-    "tags": ["social networks", "politics"]
+    "tags": [
+      "social networks",
+      "politics"
+    ]
   },
   {
     "title": "Cooperation Cascades",
@@ -35,7 +126,10 @@
     "links": {
       "pdf": "/cooperation_cascades.pdf"
     },
-    "tags": ["cooperation", "social networks"]
+    "tags": [
+      "cooperation",
+      "social networks"
+    ]
   },
   {
     "title": "From Posting to Voting",
@@ -45,7 +139,10 @@
     "links": {
       "pdf": "/from_posting_to_voting.pdf"
     },
-    "tags": ["political behavior", "social media"]
+    "tags": [
+      "political behavior",
+      "social media"
+    ]
   },
   {
     "title": "Sentinel Node Approach",
@@ -55,7 +152,10 @@
     "links": {
       "pdf": "/sentinel_node_approach.pdf"
     },
-    "tags": ["methods", "networks"]
+    "tags": [
+      "methods",
+      "networks"
+    ]
   },
   {
     "title": "Tackling Misinformation",
@@ -65,7 +165,10 @@
     "links": {
       "pdf": "/tackling_misinformation.pdf"
     },
-    "tags": ["misinformation", "communication"]
+    "tags": [
+      "misinformation",
+      "communication"
+    ]
   },
   {
     "title": "Social Contact Experiment",
@@ -75,7 +178,10 @@
     "links": {
       "pdf": "/social_contact_experiment.pdf"
     },
-    "tags": ["social influence", "experiment"]
+    "tags": [
+      "social influence",
+      "experiment"
+    ]
   },
   {
     "title": "Reddit Vaccine Conversations",
@@ -85,7 +191,10 @@
     "links": {
       "pdf": "/reddit_vaccine_conversations.pdf"
     },
-    "tags": ["health", "social media"]
+    "tags": [
+      "health",
+      "social media"
+    ]
   },
   {
     "title": "Academic Achievement",
@@ -95,7 +204,9 @@
     "links": {
       "pdf": "/academic_achievement.pdf"
     },
-    "tags": ["education"]
+    "tags": [
+      "education"
+    ]
   },
   {
     "title": "Belief in Satire",
@@ -105,7 +216,10 @@
     "links": {
       "pdf": "/belief_in_satire.pdf"
     },
-    "tags": ["media", "misinformation"]
+    "tags": [
+      "media",
+      "misinformation"
+    ]
   },
   {
     "title": "Belief in Satire (Supplementary Information)",
@@ -115,17 +229,11 @@
     "links": {
       "pdf": "/belief_in_satire_SI.pdf"
     },
-    "tags": ["media", "misinformation", "supplement"]
-  },
-  {
-    "title": "Conservatives' Susceptibility to Misperceptions",
-    "authors": "Robert M. Bond",
-    "year": null,
-    "venue": "Journal article",
-    "links": {
-      "pdf": "/conservatives_susceptibility_misperceptions.pdf"
-    },
-    "tags": ["misinformation", "politics"]
+    "tags": [
+      "media",
+      "misinformation",
+      "supplement"
+    ]
   },
   {
     "title": "Conservatives' Susceptibility to Misperceptions (Supplementary Information)",
@@ -135,7 +243,11 @@
     "links": {
       "pdf": "/conservatives_susceptibility_misperceptions_SI.pdf"
     },
-    "tags": ["misinformation", "politics", "supplement"]
+    "tags": [
+      "misinformation",
+      "politics",
+      "supplement"
+    ]
   },
   {
     "title": "Contagion of Social Attitudes and Prejudice",
@@ -145,7 +257,10 @@
     "links": {
       "pdf": "/contagion_social_attitudes_prejudice.pdf"
     },
-    "tags": ["social influence", "attitudes"]
+    "tags": [
+      "social influence",
+      "attitudes"
+    ]
   },
   {
     "title": "Contagion of Social Attitudes and Prejudice (Supplementary Information)",
@@ -155,7 +270,11 @@
     "links": {
       "pdf": "/contagion_social_attitudes_prejudice_SI.pdf"
     },
-    "tags": ["social influence", "attitudes", "supplement"]
+    "tags": [
+      "social influence",
+      "attitudes",
+      "supplement"
+    ]
   },
   {
     "title": "Cooperation Cascades (Supplementary Information)",
@@ -165,7 +284,11 @@
     "links": {
       "pdf": "/cooperation_cascades_SI.pdf"
     },
-    "tags": ["cooperation", "social networks", "supplement"]
+    "tags": [
+      "cooperation",
+      "social networks",
+      "supplement"
+    ]
   },
   {
     "title": "Direct and Indirect Elite Influence",
@@ -175,17 +298,10 @@
     "links": {
       "pdf": "/direct_indirect_elite_influence.pdf"
     },
-    "tags": ["politics", "influence"]
-  },
-  {
-    "title": "Eye Movements and Voting Decisions",
-    "authors": "Robert M. Bond",
-    "year": null,
-    "venue": "Journal article",
-    "links": {
-      "pdf": "/eye_movements_voting_decisions.pdf"
-    },
-    "tags": ["voting", "psychology"]
+    "tags": [
+      "politics",
+      "influence"
+    ]
   },
   {
     "title": "Eye Movements and Voting Decisions (Supplementary Information)",
@@ -195,7 +311,11 @@
     "links": {
       "pdf": "/eye_movements_voting_decisions_SI.pdf"
     },
-    "tags": ["voting", "psychology", "supplement"]
+    "tags": [
+      "voting",
+      "psychology",
+      "supplement"
+    ]
   },
   {
     "title": "Inferring Tie Strength",
@@ -205,17 +325,10 @@
     "links": {
       "pdf": "/inferring_tie_strength.pdf"
     },
-    "tags": ["social networks", "methods"]
-  },
-  {
-    "title": "Network Emergence and Network Evolution",
-    "authors": "Robert M. Bond",
-    "year": null,
-    "venue": "Journal article",
-    "links": {
-      "pdf": "/network_emergence_network_evolution.pdf"
-    },
-    "tags": ["networks", "methods"]
+    "tags": [
+      "social networks",
+      "methods"
+    ]
   },
   {
     "title": "Network Emergence and Network Evolution (Supplementary Information)",
@@ -225,7 +338,11 @@
     "links": {
       "pdf": "/network_emergence_network_evolution_SI.pdf"
     },
-    "tags": ["networks", "methods", "supplement"]
+    "tags": [
+      "networks",
+      "methods",
+      "supplement"
+    ]
   },
   {
     "title": "Network Healing After Loss",
@@ -235,7 +352,10 @@
     "links": {
       "pdf": "/network_healing_after_loss.pdf"
     },
-    "tags": ["networks", "resilience"]
+    "tags": [
+      "networks",
+      "resilience"
+    ]
   },
   {
     "title": "Official and Social Information Disease",
@@ -245,7 +365,10 @@
     "links": {
       "pdf": "/official_and_social_info_disease.pdf"
     },
-    "tags": ["health", "information"]
+    "tags": [
+      "health",
+      "information"
+    ]
   },
   {
     "title": "Politics Warranting Theory",
@@ -255,7 +378,10 @@
     "links": {
       "pdf": "/politics_warranting_theory.pdf"
     },
-    "tags": ["politics", "theory"]
+    "tags": [
+      "politics",
+      "theory"
+    ]
   },
   {
     "title": "Reddit Factchecks",
@@ -265,7 +391,10 @@
     "links": {
       "pdf": "/reddit_factchecks.pdf"
     },
-    "tags": ["social media", "misinformation"]
+    "tags": [
+      "social media",
+      "misinformation"
+    ]
   },
   {
     "title": "Reddit Factchecks (Supplementary Information)",
@@ -275,7 +404,11 @@
     "links": {
       "pdf": "/reddit_factchecks_SI.pdf"
     },
-    "tags": ["social media", "misinformation", "supplement"]
+    "tags": [
+      "social media",
+      "misinformation",
+      "supplement"
+    ]
   },
   {
     "title": "Reddit Ideology",
@@ -285,7 +418,10 @@
     "links": {
       "pdf": "/reddit_ideology.pdf"
     },
-    "tags": ["social media", "politics"]
+    "tags": [
+      "social media",
+      "politics"
+    ]
   },
   {
     "title": "Reddit Ideology (Supplementary Information)",
@@ -295,7 +431,11 @@
     "links": {
       "pdf": "/reddit_ideology_SI.pdf"
     },
-    "tags": ["social media", "politics", "supplement"]
+    "tags": [
+      "social media",
+      "politics",
+      "supplement"
+    ]
   },
   {
     "title": "Reddit Scientist AMA",
@@ -305,7 +445,10 @@
     "links": {
       "pdf": "/reddit_scientist_AMA.pdf"
     },
-    "tags": ["social media", "science communication"]
+    "tags": [
+      "social media",
+      "science communication"
+    ]
   },
   {
     "title": "Screen Time",
@@ -315,7 +458,10 @@
     "links": {
       "pdf": "/screen_time.pdf"
     },
-    "tags": ["media", "health"]
+    "tags": [
+      "media",
+      "health"
+    ]
   },
   {
     "title": "Sentinel Node Approach (Supplementary Information)",
@@ -325,7 +471,11 @@
     "links": {
       "pdf": "/sentinel_node_approach_SI.pdf"
     },
-    "tags": ["methods", "networks", "supplement"]
+    "tags": [
+      "methods",
+      "networks",
+      "supplement"
+    ]
   },
   {
     "title": "Social Endorsement Cues and Political Participation",
@@ -335,7 +485,10 @@
     "links": {
       "pdf": "/social_endorsement_cues_and_political_participation.pdf"
     },
-    "tags": ["political behavior", "social media"]
+    "tags": [
+      "political behavior",
+      "social media"
+    ]
   },
   {
     "title": "Social Influence and Political Mobilization (Supplementary Information)",
@@ -345,7 +498,11 @@
     "links": {
       "pdf": "/social_influence_political_mobilization_SI.pdf"
     },
-    "tags": ["political behavior", "social influence", "supplement"]
+    "tags": [
+      "political behavior",
+      "social influence",
+      "supplement"
+    ]
   },
   {
     "title": "Social Origins of Adult Behavior",
@@ -355,7 +512,9 @@
     "links": {
       "pdf": "/social_origins_adult_behavior.pdf"
     },
-    "tags": ["social behavior"]
+    "tags": [
+      "social behavior"
+    ]
   },
   {
     "title": "Social Signatures and Modes",
@@ -365,7 +524,10 @@
     "links": {
       "pdf": "/social_signatures_modes.pdf"
     },
-    "tags": ["social networks", "communication"]
+    "tags": [
+      "social networks",
+      "communication"
+    ]
   },
   {
     "title": "Spread of Violence",
@@ -375,7 +537,10 @@
     "links": {
       "pdf": "/spread_of_violence.pdf"
     },
-    "tags": ["violence", "networks"]
+    "tags": [
+      "violence",
+      "networks"
+    ]
   },
   {
     "title": "Spread of Violence (Supplementary Information)",
@@ -385,7 +550,11 @@
     "links": {
       "pdf": "/spread_of_violence_SI.pdf"
     },
-    "tags": ["violence", "networks", "supplement"]
+    "tags": [
+      "violence",
+      "networks",
+      "supplement"
+    ]
   },
   {
     "title": "Turnout Experiment",
@@ -395,7 +564,10 @@
     "links": {
       "pdf": "/turnout_experiment.pdf"
     },
-    "tags": ["voting", "experiment"]
+    "tags": [
+      "voting",
+      "experiment"
+    ]
   },
   {
     "title": "Turnout Experiment (Supplementary Information)",
@@ -405,7 +577,11 @@
     "links": {
       "pdf": "/turnout_experiment_SI.pdf"
     },
-    "tags": ["voting", "experiment", "supplement"]
+    "tags": [
+      "voting",
+      "experiment",
+      "supplement"
+    ]
   },
   {
     "title": "Turnout Experiment Commentary",
@@ -415,7 +591,10 @@
     "links": {
       "pdf": "/turnout_experiment_commentary.pdf"
     },
-    "tags": ["voting", "commentary"]
+    "tags": [
+      "voting",
+      "commentary"
+    ]
   },
   {
     "title": "Vote Choice Ballot Wording",
@@ -425,7 +604,10 @@
     "links": {
       "pdf": "/vote_choice_ballot_wording.pdf"
     },
-    "tags": ["voting", "politics"]
+    "tags": [
+      "voting",
+      "politics"
+    ]
   },
   {
     "title": "Vote Choice Ballot Wording (Supplementary Material)",
@@ -435,7 +617,11 @@
     "links": {
       "pdf": "/vote_choice_ballot_wording_SM.pdf"
     },
-    "tags": ["voting", "politics", "supplement"]
+    "tags": [
+      "voting",
+      "politics",
+      "supplement"
+    ]
   },
   {
     "title": "Yahtzee",
@@ -445,7 +631,9 @@
     "links": {
       "pdf": "/yahtzee.pdf"
     },
-    "tags": ["methods"]
+    "tags": [
+      "methods"
+    ]
   },
   {
     "title": "Reddit Science Final",
@@ -455,6 +643,9 @@
     "links": {
       "pdf": "/Reddit_Science_Final.pdf"
     },
-    "tags": ["social media", "science communication"]
+    "tags": [
+      "social media",
+      "science communication"
+    ]
   }
 ]
