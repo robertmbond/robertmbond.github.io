@@ -149,6 +149,19 @@ main {
   width: 100%;
 }
 
+.hero-headshot {
+  width: 120px;
+  justify-self: start;
+  margin: 0;
+  opacity: 0.92;
+}
+
+.hero-headshot img {
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  box-shadow: 0 10px 24px rgba(15, 32, 49, 0.12);
+}
+
 .hero h1 {
   font-size: clamp(1.6rem, 3vw, 2.4rem);
   margin: 0;
@@ -294,6 +307,10 @@ main {
 
 @media (min-width: 800px) {
   .hero {
-    grid-template-columns: 1fr;
+    grid-template-columns: minmax(0, 1fr) auto;
+  }
+
+  .hero-headshot {
+    justify-self: end;
   }
 }
