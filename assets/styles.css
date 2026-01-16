@@ -294,10 +294,6 @@ main {
 
 @media (min-width: 800px) {
   .hero {
-    grid-template-columns: 1.2fr 0.8fr;
-  }
-
-  .hero-content {
-    padding-right: 2rem;
+    grid-template-columns: 1fr;
   }
 }
