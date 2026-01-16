@@ -144,6 +144,11 @@ main {
   align-items: center;
 }
 
+.hero-content {
+  max-width: var(--max-width);
+  width: 100%;
+}
+
 .hero h1 {
   font-size: clamp(1.6rem, 3vw, 2.4rem);
   margin: 0;
